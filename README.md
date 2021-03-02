@@ -17,7 +17,7 @@ Un periodista aventurado, con cierta obsesión, que lucha por eliminar las "fake
 ![AVATAR PEQUEÑO](https://user-images.githubusercontent.com/79196259/109631027-dca9af80-7b45-11eb-86be-886d416fb861.PNG)
 
 
-Nombre: Roberto, el reportero directo
+Nombre: ###Roberto, el reportero directo###
 
 
 ### Historia
