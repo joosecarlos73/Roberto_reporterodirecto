@@ -2,19 +2,19 @@
 
 # Proyecto HRUN2021 (template): 
 
-Nombre del Equipo: 
+Nombre del Equipo: The Last Fake
 
-Proyecto (código): 
+Proyecto (código): El Viaje del Héroe
 
 
 ## Resumen
-
+Un periodista aventurado, con cierta obsesión, que lucha por eliminar las "fake-news" a modo de superhéroe, con el objeto de salvar a la humanidad de la mentira. El antagonista es un multimillonario todopoderso que oculta negocios fraudulentos, y quiere instaurar su poder en la sociedad por medio de los sobornos a los medios de comunicación.
 
 ### Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Roberto, el reportero directo
 
 
 ### Historia
@@ -26,7 +26,7 @@ Nombre:
 ### Conflicto 
 
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: (img personaje y enlace a interactivo) https://h5p.org/node/1112968  
 
 - Banner/Teaser:  (enlace) 
 
@@ -36,15 +36,14 @@ Nombre:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
 
-Autores:  
+Autores: 
 <!---
 Incluir lista de personas del grupo 
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: José Carlos García del Amo
+- :man: Salvador Pinalla de Haro 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
