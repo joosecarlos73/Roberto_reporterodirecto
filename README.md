@@ -26,7 +26,7 @@ Nombre: Roberto, el reportero directo
 ### Conflicto 
 
 
-- Personaje: (img personaje y enlace a interactivo) https://h5p.org/node/1112968  
+- Personaje: (img personaje y enlace a interactivo) (https://h5p.org/node/1112968)  
 
 - Banner/Teaser:  (enlace) 
 
