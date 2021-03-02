@@ -3,6 +3,7 @@
 # Proyecto HRUN2021 (template): 
 
 Nombre del Equipo: The Last Fake
+![the last fake](https://user-images.githubusercontent.com/79196259/109631316-21354b00-7b46-11eb-9fff-875886156a65.PNG)
 
 Proyecto (código): El Viaje del Héroe
 
