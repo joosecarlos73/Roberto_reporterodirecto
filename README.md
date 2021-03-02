@@ -12,7 +12,8 @@ Un periodista aventurado, con cierta obsesión, que lucha por eliminar las "fake
 
 ### Personaje
 
-![AVATAR PRINCIPAL](https://user-images.githubusercontent.com/79196259/109630610-6e64ed00-7b45-11eb-837e-7d0e2af457d7.jpg)
+![AVATAR PEQUEÑO](https://user-images.githubusercontent.com/79196259/109631027-dca9af80-7b45-11eb-86be-886d416fb861.PNG)
+
 
 Nombre: Roberto, el reportero directo
 
