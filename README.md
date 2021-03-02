@@ -12,7 +12,7 @@ Un periodista aventurado, con cierta obsesión, que lucha por eliminar las "fake
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![AVATAR PRINCIPAL](https://user-images.githubusercontent.com/79196259/109630610-6e64ed00-7b45-11eb-837e-7d0e2af457d7.jpg)
 
 Nombre: Roberto, el reportero directo
 
@@ -27,7 +27,7 @@ Nombre: Roberto, el reportero directo
 
 
 - Personaje:    
-![AVATAR PRINCIPAL](https://user-images.githubusercontent.com/79196259/109630610-6e64ed00-7b45-11eb-837e-7d0e2af457d7.jpg)
+
 ENLACE A INTERACTIVO (https://h5p.org/node/1112968)
 
 - Banner/Teaser:  (enlace) 
