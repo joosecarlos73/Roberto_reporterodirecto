@@ -50,6 +50,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - :man: José Carlos García del Amo
 - :man: Salvador Pinalla de Haro 
+- :man: Pedro Baena Hernández
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
