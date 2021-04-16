@@ -10,7 +10,7 @@ Proyecto (código): El Viaje del Héroe
 
 
 ## Resumen
-Un periodista aventurado, con cierta obsesión, que lucha por eliminar las "fake-news" a modo de superhéroe, con el objeto de salvar a la humanidad de la mentira. El antagonista es un multimillonario todopoderso que oculta negocios fraudulentos, y quiere instaurar su poder en la sociedad por medio de los sobornos a los medios de comunicación.
+Un periodista aventurado, con cierta obsesión, que lucha por eliminar las "fake-news" a modo de superhéroe, con el objeto de salvar a la humanidad de la mentira. El antagonista es un multimillonario todopoderso que bajo el nombre del "Malvado" oculta negocios fraudulentos y quiere instaurar su poder en la sociedad por medio de los sobornos a los grupos de comunicación. Se trata de una historia dedicada a un perfil infantil, con objeto de hacerles comprender el concepto de "fake news" y los motivos por los que son peligrosas para la sociedad.
 
 ### Personaje
 
@@ -24,17 +24,17 @@ Nombre: Roberto, el reportero directo
 
 
 ### Contexto
-
+La era digital, autocomunicación de masas, sociedad digital, nativos digitales, la mentira en Internet.
 
 ### Conflicto 
-
+Una sociedad esclava de la mentira provocada por un líder todopoderoso.
 
 - Personaje:    
 
 ENLACE A INTERACTIVO (https://h5p.org/node/1112968)
 
 - Banner/Teaser:  (enlace) 
-
+https://cloud.protopie.io/p/82f1124eb8
 
 - Storytelling: (enlace) 
 
